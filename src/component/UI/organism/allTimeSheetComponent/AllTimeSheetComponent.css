@@ -1,0 +1,33 @@
+.searchSection {
+    width: 25%;
+    align-items: center;
+    margin: 1%;
+}
+
+.tableSection {
+    width: 75%;
+    margin: 1%;
+}
+
+.statusColor {
+    text-align: center;
+    padding: 2px 10px;
+    border-radius: 16px;
+    margin-bottom: 0px;
+}
+
+.orangeBgClass {
+    background-color: rgb(247, 203, 123)
+}
+
+.redBgClass {
+    background-color: rgb(240, 131, 131);
+}
+
+.blueBgClass {
+    background-color: rgb(194, 194, 247);
+}
+
+.greenBgClass {
+    background-color: rgb(168, 245, 168);
+}

@@ -1,0 +1,12 @@
+.secondHeader {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.statusBox {
+    width: 25%;
+    background-color: white;
+    margin: 0.5vmax;
+    padding: 0.5vmax 1vmax;
+    border-radius: 20px;
+}

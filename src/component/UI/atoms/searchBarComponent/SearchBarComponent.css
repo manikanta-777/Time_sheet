@@ -1,0 +1,26 @@
+.searchInputs {
+  display: flex;
+}
+
+.searchInputs input {
+  border: 1px solid rgb(136, 133, 133);
+  border-radius: 5px;
+  border-left: unset;
+  font-size: 1vmax;
+  padding: 2%;  
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+ 
+}
+
+.searchIcon {
+  padding: 0vmax 0.5vmax;
+  display: flex;
+  place-items: center;
+  border: 1px solid rgb(136, 133, 133);
+  border-right: unset;
+  border-radius: 5px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+

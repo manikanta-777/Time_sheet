@@ -1,0 +1,13 @@
+
+.navLink{
+  text-decoration: none;
+  color: black;
+  &:focus{
+    color: blue
+  }
+}
+.navItems {
+  padding: 1vmax;
+  margin-left: 1vmax;
+}
+

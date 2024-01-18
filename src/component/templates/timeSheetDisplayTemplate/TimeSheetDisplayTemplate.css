@@ -1,0 +1,17 @@
+.displayPage {
+    display: flex;
+    height: 100%;
+}
+
+.leftSection {
+    width: 18%;
+    height: 100%;
+}
+
+.rightSection {
+    background-color: rgb(201, 198, 198);
+    width: 82%;
+    display: flex;
+    flex-direction: column;
+    padding: 2vmax;
+}

@@ -1,0 +1,16 @@
+.preHeader {
+    display: flex;
+    justify-content: space-between;
+}
+
+.accountIcon {
+    padding-right: 5vmax;
+}
+
+.morning {
+    font-size: 12px;
+}
+
+.userName {
+    font-size: 15px;
+}
